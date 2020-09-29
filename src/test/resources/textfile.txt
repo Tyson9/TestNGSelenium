@@ -1,0 +1,4 @@
+bla bla bla
+
+/Users/tahsin/IdeaProjects/EU3TestNGSelenium/src/test/resources/textfile.txt
+
